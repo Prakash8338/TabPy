@@ -1,2 +1,2 @@
 def greet(p):
-  print(p)
+  return p
